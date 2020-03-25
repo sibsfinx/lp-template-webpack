@@ -1,6 +1,6 @@
 ## Getting started
 
-https://nodejs.org/en/ v9.11.2
+https://nodejs.org/en/ v10.16.0
 (Рекомендуется) https://github.com/creationix/nvm или https://github.com/coreybutler/nvm-windows
 (Рекомендуется) https://yarnpkg.com/
 
